@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">What Are The Odds?</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_that_you_or_a_friend_is_being_dared_to_do">Action that you or a friend is being dared to do</string>
+    <string name="what_are_the_odds">What are the odds?</string>
+    <string name="_1_in">1 in</string>
+    <string name="pick_a_number_between_1_and_the_number_you_chose">Pick a number between 1 and the number you chose</string>
 </resources>
